@@ -94,12 +94,6 @@ h1, h2, h3, h4, h5, h6 {
   border: 5px solid rgba(0, 0, 0, 0.1);
 }
 
-.image--left {
-  max-width: 400px;
-  float: left;
-  margin: 0 30px 15px 0;
-}
-
 .image--right {
   max-width: 400px;
   float: right;
