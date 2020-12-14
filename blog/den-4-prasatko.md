@@ -25,4 +25,3 @@ Zdravi prasatko
 ![OrientExpress obrazek](/images/11.jpg)
 ![kote obrazek](/images/12.jpg)
 ![Kebab obrazek](/images/18.jpg)
-![brambor obrazek](/images/14.jpg)
